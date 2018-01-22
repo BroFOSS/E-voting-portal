@@ -10,7 +10,7 @@ Hence, this idea came to me to develop a system, which can be easily accessible 
 outside the campus using a smart-phone or a computer device.
 This will simplify our life a lot saving our time and our effort.
 
-## Features 
+## Features
 - Multiple Administrators.
 - Certified Results.
 - Branded Voting Websites.
@@ -20,7 +20,7 @@ This will simplify our life a lot saving our time and our effort.
 ## Database
 candidate | user | data
 :-:|:-:|:-:
-![candidate_phpmyadmin](https://cloud.githubusercontent.com/assets/13851773/21573035/2f132698-cf06-11e6-89a6-25c462fb7a0a.jpg) |  ![user_phpmyadmin](https://cloud.githubusercontent.com/assets/13851773/21573033/2f11f994-cf06-11e6-9db1-6745ee423360.jpg) | ![data_phpmyadmin](https://cloud.githubusercontent.com/assets/13851773/21573034/2f1299da-cf06-11e6-8945-9d096ca409da.jpg) 
+![candidate_phpmyadmin](https://cloud.githubusercontent.com/assets/13851773/21573035/2f132698-cf06-11e6-89a6-25c462fb7a0a.jpg) |  ![user_phpmyadmin](https://cloud.githubusercontent.com/assets/13851773/21573033/2f11f994-cf06-11e6-9db1-6745ee423360.jpg) | ![data_phpmyadmin](https://cloud.githubusercontent.com/assets/13851773/21573034/2f1299da-cf06-11e6-8945-9d096ca409da.jpg)
 
 ## User Interface Mocks
 
@@ -41,6 +41,11 @@ Admin Page1 | Admin Page2 | Admin Page3
 ![admin page](https://cloud.githubusercontent.com/assets/13851773/21573032/2f119b98-cf06-11e6-9198-170ad6aba668.png) | ![admin page1](https://cloud.githubusercontent.com/assets/13851773/21573036/2f13528a-cf06-11e6-814c-c7c1689945e3.png) | ![admin page2](https://cloud.githubusercontent.com/assets/13851773/21573037/2f13e18c-cf06-11e6-8429-c78a97a3ba41.png)
 
 ## Project License
+
+GNU General Public License v3.0
+
+## Other open source Licenses
+
 ```
 MIT License
 
@@ -64,4 +69,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
