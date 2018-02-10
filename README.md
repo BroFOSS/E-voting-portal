@@ -1,8 +1,24 @@
-# E-voting-portal
-This project was especially designed for IITP, Gymkhana Elections that use to happen in our college yearly for different student representative
-posts. This was my first project in very first year of my undergraduate course.
+# E-voting-portal-web
 
-## Why we need such a platform?
+An internet based electronic voting system - web
+
+E-voting repos:
+- [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server side code for e-voting-portals - web, and android
+- [E-voting-portal-web](https://github.com/BroFOSS/E-voting-portal-web): An internet based electronic voting system - web
+- [E-voting-portal-mobile](https://github.com/BroFOSS/E-voting-portal-mobile): An internet based electronic voting system - android
+
+# Primary Motivation
+
+In many institutions, we still use the manual based voting system, where a user is required to go to a place and write his/ her vote in a paper, and then submit in a box. After few weeks, the results are declared using manual counting. Our idea to create an open source, secure, e-voting system, which can be used by such different institutions to automate their processes. 
+
+# History of this project
+
+This project was especially designed for IITP, Gymkhana Elections that use to happen in our college yearly for different student representative
+posts. This was my first project in very first year of my undergraduate course. 
+
+This is a potential project and can be improved further, we welcome you all to work as a community and make this success.
+
+### History: Why we need such a platform?
 Currently the procedure of Gymkhana Election is: we have to cast our votes by going to a place, filling up a form
 and then dropping it into a box. One/two weeks later results use to be declared. The Process is bit lengthy and
 requires lot of physical labour and consumes time.
